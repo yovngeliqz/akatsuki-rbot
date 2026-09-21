@@ -48,7 +48,7 @@ class SpamView(discord.ui.View):
             "# ৭৭۷۷۷۷৭৭ ๒۲۲۲۲۲۲۲ ৭৭۷۷۷۷۷৭\n"
             "# SERVIDOR RAIDADO PELA AKATSUKI BOLADONA KKKKKKKKKK JA PODE DELETAR ESSA ABERRAÇÃO DE SERVIDOR!\n"
             "# @everyone @everyone @everyone\n"
-            "https://discord.gg/CpvaQuncv4"
+            "https://discord.gg/alonenow"
         )
         await interaction.response.send_message(message)
 
