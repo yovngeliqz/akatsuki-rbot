@@ -142,7 +142,7 @@ async def cmds(ctx):
     await ctx.message.delete()
     embed = discord.Embed(
         title="**__Lista de Comandos__**",
-        description="`?nuke` _Destroi o servidor completamente._\n`?raid` _Manda 1.000 mensagens em todos os canais._\n`?create_roles` _Cria 50 cargos._\n`?delete_roles` _Deleta todos os cargos._",
+        description="> `?nuke` _Destroi o servidor completamente._\n> `?raid` _Manda 1.000 mensagens em todos os canais._\n> `?create_roles` _Cria 50 cargos._\n> `?delete_roles` _Deleta todos os cargos._",
         color=0x580000
     )
     embed.set_footer(text="pansi mogged you")
